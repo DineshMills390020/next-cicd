@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  //output: 'export',
+  output: 'export',
   basePath: '/next-cicd',
   assetPrefix: '/next-cicd',
   trailingSlash: true,
