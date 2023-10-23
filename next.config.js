@@ -4,7 +4,7 @@ const nextConfig = {
     output: 'export',
     trailingSlash: true,
     images: {
-      domains: ['localhost'],
+      domains: ['localhost','dineshmills390020.github.io'],
       unoptimized: true
     },
   }
